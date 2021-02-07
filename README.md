@@ -12,4 +12,4 @@ The app supports the Dark mode too.
 
 
 
-<img stc="Images/DarkMode.png" width="250">
+<img src="Images/DarkMode.png" width="250">
