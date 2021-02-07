@@ -4,4 +4,12 @@ For this project I used a free API from **OpenWeatherAPI**, you can find their s
 
 
 
-<img src="Images/MainView.png" width="100">
+<img src="Images/MainView.png" width="250">
+
+
+
+The app supports the Dark mode too.
+
+
+
+
