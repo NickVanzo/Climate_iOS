@@ -12,4 +12,4 @@ The app supports the Dark mode too.
 
 
 
-<img stc="Images/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202021-02-07%20at%2011.19.27.png" width="250">
+<img stc="Images/DarkMode.png" width="250">
