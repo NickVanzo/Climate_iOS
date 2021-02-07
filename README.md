@@ -1,5 +1,5 @@
 # Climate_iOS
-This app is a personal project to train myself with the usage of APIs in Swift programming.
+This app is a personal project developed to train myself with APIs in Swift.
 For this project I used a free API from **OpenWeatherAPI**, you can find their site here: [https://openweathermap.org], check it out, they offer a good service.
 
 
